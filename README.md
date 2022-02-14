@@ -2,7 +2,7 @@
 - 👀 I’m interested in Game Design and Development and Artificial Intelligence Modelling, but also Information Technology Spaces such as security, IAM, and repair.
 - 🌱 I’m currently learning Unity and expanding my C# capabilities.
 - 💞️ I’m looking to collaborate on nothing presently.
-- 📫 How to reach me: look at my website, napkincat.com, or email @ jamesnuvondevlin@gmail.com!
+- 📫 How to reach me: look at my website, napkincat.com / napkincat.wordpress.com, or email @ jamesnuvondevlin@gmail.com!
 
 <!---
 NapkinCat/NapkinCat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
