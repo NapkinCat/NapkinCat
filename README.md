@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NapkinCat
+- 👋 Hi, I’m @NapkinCat / James Devlin
 - 👀 I’m interested in Game Design and Development and Artificial Intelligence Modelling, but also Information Technology Spaces such as security, IAM, and repair.
 - 🌱 I’m currently learning Unity and expanding my C# capabilities.
 - 💞️ I’m looking to collaborate on nothing presently.
